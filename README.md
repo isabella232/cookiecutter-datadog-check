@@ -6,4 +6,4 @@ Datadog Agent integrations, also known as Checks.
 ## How to use
 
     $ pip install cookiecutter
-    $ cookiecutter https://github.com/wdm0006/cookiecutter-pipproject.git
+    $ cookiecutter https://github.com/DataDog/cookiecutter-datadog-check.git
