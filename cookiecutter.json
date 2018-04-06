@@ -1,0 +1,9 @@
+{
+	"full_name": "Datadog",
+	"email": "packages@datadoghq.com",
+    "guid": "000-000",
+    "check_name": "my_check",
+    "check_description": "my_check collects my metrics.",
+    "class_name": "MyCheck",
+    "version": "0.1.0"
+}

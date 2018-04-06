@@ -1,0 +1,20 @@
+{
+  "maintainer": "help@datadoghq.com",
+  "manifest_version": "1.0.0",
+  "name": "{{cookiecutter.check_name}}",
+  "short_description": "{{cookiecutter.check_description}}",
+  "support": "core",
+  "supported_os": [
+    "linux",
+    "mac_os",
+    "windows"
+  ],
+  "guid": "{{cookiecutter.guid}}",
+  "public_title": "{{cookiecutter.check_name}} Integration",
+  "categories":[],
+  "type":"check",
+  "doc_link": "",
+  "aliases":[],
+  "is_public": true,
+  "has_logo": true
+}
