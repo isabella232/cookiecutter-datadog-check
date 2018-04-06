@@ -1,9 +1,7 @@
 # cookiecutter-datadog-check
 
-A cookiecutter template for creating Datadog Agent integrations, also known as
-Checks.
-
-[cookiecutter](https://github.com/audreyr/cookiecutter)
+A [cookiecutter](https://github.com/audreyr/cookiecutter) template for creating
+Datadog Agent integrations, also known as Checks.
 
 ## How to use
 
