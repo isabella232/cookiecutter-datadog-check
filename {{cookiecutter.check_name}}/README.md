@@ -4,6 +4,9 @@
 
 [...]
 
+You can also use images here:
+![snapshot](https://raw.githubusercontent.com/DataDog/cookiecutter-datadog-check/master/%7B%7Bcookiecutter.check_name%7D%7D/images/snapshot.png)
+
 ## Setup
 
 ### Installation
